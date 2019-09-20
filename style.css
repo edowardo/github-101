@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+#banner-pic {
+	height: 300px;
+	padding: 50px;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
